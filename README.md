@@ -1,2 +1,1 @@
-# LAVORO
-PARA TESTE DE ENVIO DE ARQUIVOS 
+# Calculadora
